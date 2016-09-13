@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name = "android:textSize">16dp</item>
+        <item name = "android:background">@color/blue</item>
+        <item name = "android:width">220dp</item>
+        <item name = "android:height">50dp</item>
+        <item name = "android:gravity">center</item>
+        <item name = "android:textColor">@android:color/white</item>
+    </style>
+</resources>
